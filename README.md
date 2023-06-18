@@ -3,7 +3,7 @@
 ![gif](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 
-### A passionate coder who loves to dive into the world of web development. With expertise in JavaScript, TypeScript, MongoDB, MySQL, and the Nest framework 🐱‍👤🐾. Coding is not just a job for me; it's my true passion. I invest great dedication into every line of code I write, striving to deliver exceptional results🔥.
+### A passionate coder who loves to dive into the world of web development. With expertise in JavaScript, TypeScript, MongoDB, MySQL and the Nest framework 🐱‍👤🐾. Coding is not just a job for me; it's my true passion. I invest great dedication into every line of code I write, striving to deliver exceptional results🔥.
 
 
 <!-- Statistics -->
