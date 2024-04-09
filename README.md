@@ -1,7 +1,7 @@
 ## Hello there! My Name is Enzo Santos 👨‍💻
 
 
-### A passionate coder who loves to dive into the world of web development. With expertise in JavaScript, TypeScript, MongoDB, MySQL and the Nest framework 🐱‍👤🐾. Coding is not just a job for me; it's my true passion. I invest great dedication into every line of code I write, striving to deliver exceptional results🔥.
+### A passionate dev who loves to dive into the world of web development. With expertise in JavaScript, TypeScript, MongoDB, MySQL and the Nest framework 🐱‍👤🐾. Coding is not just a job for me, it's my true passion. I invest great dedication into every line of code I write, striving to deliver exceptional results🔥.
 
 
 <!-- Statistics -->
